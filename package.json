@@ -1,0 +1,13 @@
+{
+  "name": "everyone-team",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple CLI tool to maintain a GitHub team with all the organization's members",
+  "author": "Harvard-MIT Data Center (https://www.hmdc.harvard.edu/)",
+  "license": "MIT",
+  "repository": "github:hmdc/everyone-team",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "dotenv": "^16.0.0"
+  }
+}
